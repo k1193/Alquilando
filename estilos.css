@@ -23,41 +23,9 @@ footer {
 
 /* estilos del login */
 
-.containerOwnApp {
-    box-shadow: 0 0 27px 0 rgba(207, 19, 19, 0.62);
-    padding-top: 15px;
- }
-  
- .login-page {
-   padding: 18% 0 0;
-   margin: 0 auto 100px;
-   max-width: 360px;
-   position: relative;
- }
-  
- .login-form {
-    box-shadow: 0 0 27px 0 rgba(196, 15, 15, 0.62);
- }
-  
- .login-form-header {
-    padding-top: 16px;
- }
-  
- .login-from-row {
-    padding-top: 16px;
-    padding-bottom: 16px;
- }
-  
- .login-form-font-header {
-    font-size:30px; 
-    font-weight: bold;
- }
-  
- .login-form-font-header span {
-    color: rgb(0, 10, 155);
- }
 
- 
+
+
 /* estilos Registro */
 
 
