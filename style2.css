@@ -1,12 +1,6 @@
 /* estilos del formulario*/
-
-body{
-    background-image:url(https://s3.envato.com/files/243754334/primag.jpg);
-}
-
-
-
 body {
+    background-image:url(https://s3.envato.com/files/243754334/primag.jpg);
     background-color: #1abc9c;
     font: 1em Helvetica;
   }
@@ -24,8 +18,9 @@ body {
     border-radius: 0 5px 5px 0;
     padding-top: 20px;
     padding-right: 20px;
-    text-align: center;s
+    text-align: center;
   }
+  
   
   .signup {
     float: left;
